@@ -1,22 +1,26 @@
- Data Cleaning and Preparation
+📊 Superstore Sales Performance Dashboard
 
-📌 Overview
-This project is part of my **Data Analytics Internship at SkillCraft Technology**. It focuses on cleaning the Superstore dataset using Python and Pandas.
+A professional **Power BI dashboard** developed using the Superstore dataset to provide comprehensive insights into sales performance. The dashboard enables interactive analysis of key business metrics, helping users monitor trends, evaluate regional performance, and identify top-performing product categories and customer segments for data-driven decision-making.
 
-🛠️ Tools Used
-- Python
-- Pandas
-- Google Colab
+✨ Features
+- Interactive KPI cards for Total Sales, Average Sales, and Total Orders
+- Sales analysis by Category and Region
+- Monthly Sales Trend visualization
+- Best Performing Customer Segment
+- Business insights for quick decision-making
+- User-friendly and interactive dashboard design
 
-📂 Dataset
-- Superstore Dataset (CSV)
+🛠️ Tech Stack
+- Microsoft Power BI
+- Power Query
+- DAX
+- Superstore Dataset
 
-🚀 Tasks Performed
-- Loaded the dataset
-- Handled missing values
-- Removed duplicate records
-- Converted date columns
-- Exported the cleaned dataset
+📊 Dashboard Insights
+- Technology is the highest revenue-generating category.
+- Consumer is the best-performing customer segment.
+- Sales reached their peak in November.
+- The West region recorded the highest overall sales performance.
 
-✅ Output
-A cleaned dataset named **Cleaned_Superstore.csv** was generated for further analysis.
+📌 Purpose
+This project demonstrates the use of Power BI for business intelligence by transforming raw sales data into meaningful visual insights through interactive dashboards and KPI reporting.
